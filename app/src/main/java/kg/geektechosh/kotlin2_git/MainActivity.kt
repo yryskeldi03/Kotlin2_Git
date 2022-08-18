@@ -10,4 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     // Здесь должен быть код
+    // test branch comment
 }
