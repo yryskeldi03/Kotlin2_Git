@@ -8,7 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         print("Hello World")
+        val num = 0
     }
+
 
     // Здесь должен быть код
     // test branch comment
